@@ -1,5 +1,14 @@
 # AtliQ-Hardware Business insight
 ---
+### Project Detail:
+---
+- I am creating Excel reports for AtliQ Hardware's finance and sales departments. These reports will help both teams make crucial decisions to expand their business and establish a strong market presence 
+  worldwide. 
+
+- In the finance report, I am preparing the Profit & Loss statement which will include Net Sales, COGS, GM, and GM % for a particular fiscal year, month, and quarter. 
+
+- In the sales report, I am preparing the Customer Performance Report and Market Performance Report for a specific region, division, and country.
+
 ### Company's Background:
 ---
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
