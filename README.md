@@ -60,10 +60,6 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
   ![EXCEL 2](https://github.com/Phebeeva24/EXCEL-COURSE/assets/147321375/41916641-1ace-4c58-92af-c7b216d33e6c)
 
 
-**1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
-
-  **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
-
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -71,7 +67,7 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
   
 
-## finance report:
+## FINANCE REPORT:
   ### P & L For Market
   ![EXCEL 3](https://github.com/Phebeeva24/EXCEL-COURSE/assets/147321375/2dd326dc-7897-48f9-92a0-7d4f3faa5679)
 
@@ -80,10 +76,6 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 
    ### P & L By Month
   ![EXCEL 5](https://github.com/Phebeeva24/EXCEL-COURSE/assets/147321375/f0829f51-3ed9-4ef8-80de-27152a8a3ed5)
-
- **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
